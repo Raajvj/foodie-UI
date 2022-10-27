@@ -1,0 +1,9 @@
+.main_div1{
+    background-image: url('../images/69go9vko_copper-thali_625x300_10_March_21.jpg');
+    background-size: cover;
+    height: 100vh;
+    /* backdrop-filter: blur(10px); */
+}
+.main_div2{
+    margin-top: 10%;
+}
